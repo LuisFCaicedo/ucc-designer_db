@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="171mm" xmlns="http://www.w3.org/2000/svg" height="120mm" version="1.1" viewBox="0 0 649 456" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <polygon fill="#ffffff" points="2,2 2,103 262,103 262,12 253,2" stroke="#804000" stroke-width="1" stroke-linejoin="miter"/>
+   <line x1="262" x2="253" y1="12" y2="12" stroke="#804000" stroke-width="1"/>
+   <line x1="253" x2="253" y1="12" y2="2" stroke="#804000" stroke-width="1"/>
+   <text x="132" y="50" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">implementacion del Dominio cuenta bancaria para </text>
+   <text x="132" y="60" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">evaluar la pertinencia de la dimension tiempo</text>
+   <path d="M497,313 L497,255 A8,8 0 0,0 489,247 L386,247" fill="none" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="386,247 399,244 399,250" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="497" y="250" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_CUENTA_LOG_REF_CUENTA</text>
+   <polyline fill="none" points="144,247 144,360" stroke="#800040" stroke-width="1"/>
+   <polygon fill="#800040" points="144,360 141,347 147,347" stroke="#800040" stroke-width="1" stroke-linejoin="miter"/>
+   <text x="144" y="306" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">FK_CUENTA_REFE_CLIENTE</text>
+   <rect x="70" y="135" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient1" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="70" y="135" fill="url(#Gradient1)" width="316" height="112" stroke="#804000" stroke-width="1"/>
+   <text x="228" y="146" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">cuenta</text>
+   <line x1="70" x2="386" y1="152" y2="152" stroke="#804000" stroke-width="1"/>
+   <text x="75" y="162" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">id_cliente</text>
+   <text x="75" y="175" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">cli_id_cliente</text>
+   <text x="75" y="188" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_registro</text>
+   <text x="75" y="201" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_actualizacion</text>
+   <text x="75" y="214" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">saldo</text>
+   <text x="75" y="227" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">usuario</text>
+   <text x="75" y="240" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ip</text>
+   <text x="178" y="162" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">NUMBER(10)</text>
+   <text x="178" y="175" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NUMBER(10)</text>
+   <text x="178" y="188" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="178" y="201" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="178" y="214" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DECIMAL(15, 2)</text>
+   <text x="178" y="227" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(10)</text>
+   <text x="178" y="240" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(15)</text>
+   <text x="338" y="162" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk,fk1&gt;</text>
+   <text x="338" y="175" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk2&gt;</text>
+   <rect x="347" y="313" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient2" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#d28902"/>
+      </linearGradient>
+   </defs>
+   <rect x="347" y="313" fill="url(#Gradient2)" width="300" height="124" stroke="#804000" stroke-width="1"/>
+   <text x="497" y="324" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">cuenta_logs</text>
+   <line x1="347" x2="647" y1="330" y2="330" stroke="#804000" stroke-width="1"/>
+   <text x="352" y="340" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">id</text>
+   <text x="352" y="353" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">cuanta-id</text>
+   <text x="352" y="366" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_hora</text>
+   <text x="352" y="378" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_registro</text>
+   <text x="352" y="391" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">fecha_actualizacion</text>
+   <text x="352" y="404" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">saldo</text>
+   <text x="352" y="417" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">usuario</text>
+   <text x="352" y="430" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">ip</text>
+   <text x="455" y="340" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">NUMBER(20)</text>
+   <text x="455" y="353" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">NUMBER(10)</text>
+   <text x="455" y="366" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="455" y="378" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="455" y="391" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">TIMESTAMP WITH TIME ZONE</text>
+   <text x="455" y="404" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">DECIMAL(15, 2)</text>
+   <text x="455" y="417" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(10)</text>
+   <text x="455" y="430" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(15)</text>
+   <text x="615" y="340" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="615" y="353" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <rect x="51" y="360" fill="#ffffff" width="0" height="0" stroke="none" stroke-width="0"/>
+   <defs>
+      <linearGradient id="Gradient3" x1="0%" x2="100%" y1="0%" y2="100%" gradientUnits="objectBoundingBox">
+         <stop offset="5%" stop-color="#ffffff"/>
+         <stop offset="95%" stop-color="#80ff80"/>
+      </linearGradient>
+   </defs>
+   <rect x="51" y="360" fill="url(#Gradient3)" width="186" height="94" stroke="#804000" stroke-width="1"/>
+   <text x="144" y="373" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">cliente</text>
+   <text x="144" y="383" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="middle">(domini_cliente)</text>
+   <line x1="51" x2="237" y1="390" y2="390" stroke="#804000" stroke-width="1"/>
+   <text x="55" y="400" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">id_cliente</text>
+   <text x="55" y="413" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">id_tipo_cliente</text>
+   <text x="55" y="426" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">nombre</text>
+   <text x="55" y="439" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">Column_4</text>
+   <text x="134" y="400" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">NUMBER(10)</text>
+   <text x="134" y="413" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(2)</text>
+   <text x="134" y="426" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(40)</text>
+   <text x="134" y="439" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">VARCHAR(40)</text>
+   <text x="209" y="400" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start" text-decoration="underline">&lt;pk&gt;</text>
+   <text x="209" y="413" fill="#000000" font-size="10" font-family="'Arial Unicode MS','Arial'" text-anchor="start">&lt;fk&gt;</text>
+   <image x="51" y="444" width="10" height="10" xlink:href="banco-data-18-10-2023_svg_Files/svg_bitmap1.png"/>
+</svg>

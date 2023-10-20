@@ -1,0 +1,1 @@
+{"resources":{"Scrips/Data_base.sql":{"default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32","default-schema":"BANCO"},"Scrips/domino_banco_cliente.sql":{"default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32","default-schema":"ANONYMOUS"}}}
