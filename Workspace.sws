@@ -4,10 +4,10 @@
 
 <Workspace>
 	<Local Expanded="Yes" Name="asignature_designer_db">
-		<Model Expanded="Yes" ID="{D1E86FA7-9B9C-482E-820D-74697B0F6CB8}" Name="modelo_simple" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="modelo_simple.pdm"/>
-		<Model ID="{11A3BB71-70CB-472B-BD6B-452786A2B21D}" Name="River View Park" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="River_View_Park.pdm"/>
+		<Model ID="{D1E86FA7-9B9C-482E-820D-74697B0F6CB8}" Name="modelo_simple" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="modelo_simple.pdm"/>
+		<Model Expanded="Yes" ID="{11A3BB71-70CB-472B-BD6B-452786A2B21D}" Name="River View Park" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="River_View_Park.pdm"/>
 		<Model Expanded="Yes" ID="{5F5CF860-A58B-44EC-BC44-E523E1A987B6}" Name="banco_domain_bd" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="banco_domain_bd.pdm"/>
-		<Model ID="{304C381B-9296-4157-921D-A739FD76A084}" Name="NOMINA" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="NOMINA.pdm"/>
+		<Model Expanded="Yes" ID="{304C381B-9296-4157-921D-A739FD76A084}" Name="NOMINA" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="NOMINA.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
