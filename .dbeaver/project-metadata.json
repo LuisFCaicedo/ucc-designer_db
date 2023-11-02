@@ -1,1 +1,1 @@
-{"resources":{"Scrips/Data_base.sql":{"default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32","default-schema":"BANCO"},"Scrips/domino_banco_cliente.sql":{"default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32","default-schema":"BANCO"}}}
+{"resources":{"Scrips/Data_base.sql":{"default-schema":"BANCO","default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32"},"Scrips/domino_banco_cliente.sql":{"default-schema":"BANCO","default-datasource":"oracle_thin-18b8dc39e98-7008ab12c394f700"}}}
