@@ -1,1 +1,1 @@
-{"resources":{"Scrips/Data_base.sql":{"default-schema":"BANCO","default-datasource":"oracle_thin-18b4afea648-5131c3dc9eb64d32"},"Scrips/domino_banco_cliente.sql":{"default-schema":"BANCO","default-datasource":"oracle_thin-18b8dc39e98-7008ab12c394f700"}}}
+{"resources":{"Scripts/domino_aerolinea.sql":{"default-datasource":"oracle_thin-18b934a0944-5033ef2bc13a1274","default-schema":"AEROLINEA"}}}

@@ -4,9 +4,11 @@
 
 <Workspace>
 	<Local Expanded="Yes" Name="workspace_diseno_bd">
-		<Model Expanded="Yes" ID="{C35CCF77-EAA2-4371-BB72-320612300864}" Loaded="No" Name="modelo_simple" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="modelo_simple.pdm"/>
-		<Model Expanded="Yes" ID="{350F6D33-13A7-47A9-AF90-D10BD7188302}" Loaded="No" Name="nomina" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="nomina.pdm"/>
-		<Model Expanded="Yes" ID="{83F55767-EAE4-4888-84EA-10DA66AB1561}" Name="banco.domain-db" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="banco.domain-db.pdm"/>
+		<Model ID="{C35CCF77-EAA2-4371-BB72-320612300864}" Name="modelo_simple" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="modelo_simple.pdm"/>
+		<Model ID="{350F6D33-13A7-47A9-AF90-D10BD7188302}" Name="nomina" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="nomina.pdm"/>
+		<Model ID="{83F55767-EAE4-4888-84EA-10DA66AB1561}" Name="banco.domain-db" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="banco.domain-db.pdm"/>
+		<Model ID="{4DBC656D-4B72-4B22-98D9-51348F6C8991}" Name="aerolinea" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="aerolinea.ldm"/>
+		<Model Expanded="Yes" ID="{DC21C3F5-4641-479A-99C8-4D990737AB18}" Name="aerolinea" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="aerolinea.pdm"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
