@@ -1,0 +1,16 @@
+El comando dropbearconvert en Dropbear SSH, permite a los atacantes ejecutar código arbitrario a través de un archivo de clave OpenSSH diseñado.
+Una función desconocida del componente dbclient es afectada por esta vulnerabilidad
+Algunas funciones desconocidas del componente dbclient/server están afectadas
+Permite que un atacante remoto determine qué dominios se han resuelto recientemente a través de este servidor de nombres y, por lo tanto, qué hosts se han visitado recientemente.
+El servidor DNS de Microsoft escuchando en el host remoto que pertenece a una versión no compatible de Windows. 
+El servidor DHCP remoto puede exponer información sobre la red asociada
+La versión remota de Microsoft Windows le falta un paquete de servicio o ya no es compatible
+Un atacante remoto no autenticado puede aprovechar esto para realizar ataques de intermediario contra el servidor SMB. Esta vulnerabilidad es aprovechada por el protocolo SMB, en el puerto 445 del servidor
+Un atacante remoto no autenticado puede aprovechar esto para realizar ataques de intermediario contra el servidor SMB (Server Message Block es un protocolo de red que permite compartir archivos, impresoras, etcétera, entre nodos de una red de computadoras que usan el sistema operativo Microsoft Windows)
+Vulnerabilidad en la resolución de DNS podría permitir la ejecución remota de código. El host remoto es vulnerable a una saturación de búfer en el servicio de cliente. 
+La versión remota de Microsoft Windows instalada le hace falta un paquete de servicio o ya no es compatible.
+El host remoto de Windows le falta una actualización de seguridad.
+El host remoto de Windows se ve afectado por una vulnerabilidad de elevación de privilegios en los protocolos del administrador de cuentas de seguridad (SAM) y la autoridad de seguridad local (política de dominio) (LSAD) debido a una negociación incorrecta del nivel de autenticación en los canales de llamada a procedimiento remoto (RPC).
+Un atacante remoto no autenticado puede aprovechar esto para realizar ataques de intermediario contra el servidor SMB
+Un atacante remoto no autenticado puede aprovechar esto para realizar ataques de intermediario contra el servidor SMB
+Generalmente se debe a que el certificado en la parte superior de la cadena de certificados está firmado por una autoridad de certificación desconocida.
